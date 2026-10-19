@@ -40,3 +40,4 @@ const rounds=[
 const labels={economy:"Gazdaság",security:"Biztonság",diplomacy:"Diplomácia",openness:"Mobilitás és nyitottság"};
 
 window.VISAQUEST = { countries, rounds, labels };
+window.VISAQUEST = { countries, rounds, labels };
